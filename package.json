@@ -2,6 +2,7 @@
   "name": "contactmanager-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://msaaad.github.io/contact-manager-react",
   "dependencies": {
     "@material-ui/core": "^3.1.0",
     "@material-ui/icons": "^3.0.1",
@@ -25,6 +26,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "json:server": "json-server --watch db.json"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
