@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Animesh Roy",
+    "country": "India",
+    "email": "abc@gmail.com",
+    "phone": "2322984953",
+    "id": 1
+  },
+  {
+    "name": "Aakash Choudhury",
+    "country": "USA",
+    "email": "abcd@gmail.com",
+    "phone": "4930384837",
+    "id": 2
+  },
+  {
+    "name": "Arun Dey",
+    "country": "Brazil",
+    "email": "xyz@gmail.com",
+    "phone": "5748493812",
+    "id": 3
+  },
+  {
+    "name": "Vikash Choudhury",
+    "country": "New Zeland",
+    "email": "jkl@gmail.com",
+    "phone": "9873625261",
+    "id": 4
+  },
+  {
+    "name": "Gaurav Gupta",
+    "country": "Russia",
+    "email": "zzz@gmail.com",
+    "phone": "7002873284",
+    "id": 5
+  }
+]
